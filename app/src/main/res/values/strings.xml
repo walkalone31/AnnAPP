@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> Questionnaire </string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="pic_name1">Picture</string>
+</resources>
